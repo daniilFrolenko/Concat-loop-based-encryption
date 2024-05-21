@@ -1,6 +1,6 @@
 ﻿namespace ConcatLoopBasedEncryption
 {
-    internal class ConcatLoopBasedEncryption
+    internal class ConcatLoopBasedEncryptor
     {
         public static string Encrypt(string stringToEncrypt, int numberOfIterations)
         {
